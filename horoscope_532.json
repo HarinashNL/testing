@@ -1,0 +1,64 @@
+{
+    "horoscope_532": [
+        {
+            "name": "Verseau",
+            "date": "Jan 20 - Feb 18",
+            "icon": "Aquarius.svg"
+        },
+        {
+            "name": "Poissons",
+            "date": "Feb 19 - Mar 20",
+            "icon": "Pisces.svg"
+        },
+        {
+            "name": "Bélier",
+            "date": "Mar 21 - Apr 19",
+            "icon": "Aries.svg"
+        },
+        {
+            "name": "Taureau",
+            "date": "Apr 20 - May 20",
+            "icon": "Taurus.svg"
+        },
+        {
+            "name": "Gémeaux",
+            "date": "May 21 - Jun 20",
+            "icon": "Gemini.svg"
+        },
+        {
+            "name": "Cancer",
+            "date": "Jun 21 - Jul 22",
+            "icon": "Cancer.svg"
+        },
+        {
+            "name": "Lion",
+            "date": "Jul 23 - Aug 22",
+            "icon": "Leo.svg"
+        },
+        {
+            "name": "Vierge",
+            "date": "Aug 23 - Sep 22",
+            "icon": "Virgo.svg"
+        },
+        {
+            "name": "Balance",
+            "date": "Sep 23 - Oct 22",
+            "icon": "Libra.svg"
+        },
+        {
+            "name": "Scorpion",
+            "date": "Oct 23 - Nov 21",
+            "icon": "Scorpio.svg"
+        },
+        {
+            "name": "Sagittaire",
+            "date": "Nov 22 - Dec 21",
+            "icon": "Sagittarius.svg"
+        },
+        {
+            "name": "Capricorne",
+            "date": "Dec 22 - Jan 19",
+            "icon": "Capricorn.svg"
+        }
+    ]
+}
